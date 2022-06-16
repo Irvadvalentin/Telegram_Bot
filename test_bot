@@ -1,0 +1,6 @@
+1. При запуске кода выходит ошибка: "Traceback (most recent call last):
+  File "C:\Users\acer\PycharmProjects\проверка бота сокурсника\app.py", line 9, in <module>
+    def start(message: telebot.types.Message):
+AttributeError: module 'telebot' has no attribute 'types'"
+
+2. В файле "config.py" в словаре "Keys" некорректно указано обозначение валюты Доллар.
